@@ -1,4 +1,4 @@
-# PDFMerge
+# ✨PDFMerge✨
 
 PDFMerge is a web-based application for merging PDFs and images into a single document. It operates entirely client-side for maximum privacy, using JavaScript, HTML, and CSS. Built on the robust [PDF-LIB.js](https://pdf-lib.js.org/) library, PDFMerge offers efficient PDF generation and manipulation. It also leverages the HTML5 FileReader API for image handling, and basic GPS and date EXIF details from photos thanks to [ExifReader](https://github.com/mattiasw/ExifReader). Key features include:
 
